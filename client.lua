@@ -32,9 +32,9 @@ local function ActivateThread()
     end
 end
 
-RegisterNetEvent('oznamenie')
+RegisterNetEvent('announce')
 announcestring = false
-AddEventHandler('oznamenie', function(msg)
+AddEventHandler('announce', function(msg)
 	announcestring = msg
     display = true
     ActivateThread()
