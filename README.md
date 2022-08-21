@@ -15,6 +15,6 @@ Usage: /announce message
 
 ![image](https://user-images.githubusercontent.com/22276040/185742297-b8aa52b5-6267-4c5e-8e23-2844ac8bf43c.png)
 
-That’s all. I hope you like it! :slight_smile:
+That’s all. I hope you like it! 😊
 
 Notice: This resource is provided as-is. Do not ask me to make custom edits for your server. Only ask questions if they are problems with the resource.
